@@ -1,9 +1,9 @@
 
 Title: Introduction to SVG (Scalable Vector Graphics)<br>
-Type: Morning Exercise <br>
+
 Duration: "0:45"<br>
 Creator: Karolin Rafalski<br>
-    Course: WDIR-HOPPER<br>
+
 Competencies: SVG basics<br>
 Prerequisites: HTML, CSS, JavaScript<br>
 
